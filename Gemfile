@@ -22,6 +22,7 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'dotenv-rails'
+gem 'jquery-rails'
 
 
 
