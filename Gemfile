@@ -24,6 +24,9 @@ gem 'devise-bootstrap-views'
 gem 'dotenv-rails'
 gem 'jquery-rails'
 gem 'stripe'
+gem 'carrierwave'
+gem 'mini_magick'
+
 
 
 
